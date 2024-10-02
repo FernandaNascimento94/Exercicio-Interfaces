@@ -1,0 +1,14 @@
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\Objeto.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\Objeto.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\Objeto.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\bin\Debug\net8.0\Objeto.exe
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\bin\Debug\net8.0\Objeto.deps.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\bin\Debug\net8.0\Objeto.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\bin\Debug\net8.0\Objeto.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\bin\Debug\net8.0\Objeto.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\Objeto.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\refint\Objeto.dll
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\Objeto.pdb
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\Objeto.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Fernanda Nascimento\Objeto\Objeto\obj\Debug\net8.0\ref\Objeto.dll
